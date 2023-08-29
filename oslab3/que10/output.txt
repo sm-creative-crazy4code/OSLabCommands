@@ -1,0 +1,6 @@
+total 16
+drwxrwxr-x 2 iiit-bh iiit-bh 4096 Aug 29 10:15 dir1
+drwxrwxr-x 2 iiit-bh iiit-bh 4096 Aug 29 10:15 dir2
+drwxrwxr-x 2 iiit-bh iiit-bh 4096 Aug 29 10:15 dir3
+drwxrwxr-x 2 iiit-bh iiit-bh 4096 Aug 29 10:15 dir4
+-rw-rw-r-- 1 iiit-bh iiit-bh    0 Aug 29 10:16 output.txt

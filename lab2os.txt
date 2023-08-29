@@ -1,0 +1,987 @@
+    1  sudo passwd root
+    2  sudo nano /etc/fstab 
+    3  sudo chown iiit-bh:iiit-bh /data
+    4  cd\
+    5  sudo chown iiit-bh:iiit-bh /data
+    6  reboot
+    7  lsblk
+    8  cd\
+    9  cd /data
+   10  sudo chown iiit-bh:iiit-bh /data
+   11  cd /data
+   12  exit
+   13  gcc
+   14  su root
+   15  cd
+   16  gcc --version
+   17  sudo apt-get install g++
+   18  gcc
+   19  g++
+   20  mkdir B122052
+   21  cd B122052
+   22  gcc
+   23  gedit q12.c
+   24  gcc q12.c
+   25  ./a.out 
+   26  gcc q12.c
+   27  ./a.out 
+   28  gcc q12.c
+   29  gedit q12.c
+   30  gcc q12.c
+   31  ./a.out 
+   32  gcc q12.c
+   33  ./a.out 
+   34  gedit q12.c
+   35  q10.c
+   36  gedit q10.c
+   37  gedit q12.c
+   38  gedit q10.c
+   39  gcc q10.c
+   40  ./a.out 
+   41  gedit q10.c
+   42  gcc q10.c
+   43  ./a.out 
+   44  gcc q10.c
+   45  ./a.out 
+   46  gcc q10.c
+   47  ./a.out
+   48  gcc q10.c
+   49  ./a.out 
+   50  geditq10.c
+   51  gedit q10.c
+   52  gcc q10.c
+   53  ./a.out 
+   54  gcc q10.c
+   55  gedit q10.c
+   56  gcc q10.c
+   57  ./a.out 
+   58  geditq10.c
+   59  gedit q10.c
+   60  gcc q10.c
+   61  ./a.out 
+   62  gedit q10.c
+   63  gcc q10.c
+   64  ./a.out 
+   65  gedit q12.c
+   66  gcc q12.c
+   67  ./a.out 
+   68  gcc q12.c
+   69  ./a.out 
+   70  cd b122017
+   71  mkdir b122017
+   72  cd b122017
+   73  gedit reverse.c
+   74  gcc
+   75  gedit reverse.c
+   76  gcc reverse.c
+   77  ./a.out
+   78  gedit reverse.c
+   79  gedit matrix.c
+   80  gcc matrix.c
+   81  gedit matrix.c
+   82  gcc matrix.c
+   83  ./a.out
+   84  gedit matrix.c
+   85  gcc matrix.c
+   86  ./a.out
+   87  gedit matrix.c
+   88  gedit reverse.c
+   89  gcc reverse.c
+   90  ./a.out
+   91  gcc matrix.c
+   92  ./a.out
+   93  gcc
+   94  mkdi b422005
+   95  mkdirb422005
+   96  mkdir b422005
+   97  cd b422005
+   98  mkdir lab_01
+   99  cd lab_01
+  100  gedit prog1.c
+  101  gcc prog1.c
+  102  gedit prog1.c
+  103  gcc prog1.c
+  104  gedit prog1.c
+  105  gcc prog1.c
+  106  gedit prog2.c
+  107  gcc prog2.c
+  108  gedit prog2.c
+  109  gcc prog2.c
+  110  gedit prog2.c
+  111  gedit prog3.c
+  112  gcc prog3.c
+  113  gedit prog3.c
+  114  gcc prog3.c
+  115  gedit prog3.c
+  116  gcc prog3.c
+  117  gedit prog3.c
+  118  gcc prog3.c
+  119  gedit prog3.c
+  120  gcc prog3.c
+  121  gedit prog3.c
+  122  gcc prog3.c
+  123  gedit prog4.c
+  124  gcc
+  125  mkdir b422039
+  126  cd b422039
+  127  mkdir lab1
+  128  cd lab1
+  129  gedit prog1.c
+  130  gcc prog1.c
+  131  gedit prog1.c
+  132  gcc prog1.c
+  133  ./a.out
+  134  gedit prog2.c
+  135  ./a.out
+  136  gedit prog2.c
+  137  ./a.out
+  138  gedit prog2.c
+  139  gcc prog2.c
+  140  gedit prog2.c
+  141  gcc prog2.c
+  142  gedit prog2.c
+  143  gcc prog2.c
+  144  ./a.out
+  145  gedit prog3.c
+  146  gcc prog3.c
+  147  gedit prog3.c
+  148  gcc prog3.c
+  149  ./a.out
+  150  gedit prog4.c
+  151  cd b422005
+  152  gcc lab_02
+  153  mkdir lab_02
+  154  gcc lab_02
+  155  gedit prog1.c
+  156  gcc prog1.c
+  157  gedit prog1.c
+  158  gcc prog1.c
+  159  .\a.out
+  160  ./a.out
+  161  gedit prog2.c
+  162  gedit prog1.c
+  163  gesit prog2.c
+  164  gedit prog2.c
+  165  gedit prog1.c
+  166  gcc prog1.c
+  167  ./a.out
+  168  gedit prog2.c
+  169  gedit prog3.c
+  170  gcc prog3.c
+  171  gedit prog3.c
+  172  gcc prog3.c
+  173  ./a.out
+  174  gedit prog3.c
+  175  gcc prog3.c
+  176  ./a.out
+  177  gedit prog3.c
+  178  gcc prog3.c
+  179  ./a.out
+  180  gcc prog1.c
+  181  ./a.out
+  182  gedit prog1.c
+  183  gcc prog1.c
+  184  ./a.out
+  185  mkdir b422039
+  186  cd b422039
+  187  ls
+  188  mkdir lab2
+  189  cd lab2
+  190  gedit prog1.c
+  191  gcc prog1.c
+  192  gedit1.c
+  193  gedit prog1.c
+  194  gcc prog1.c
+  195  gedit prog2.c
+  196  gedit prog1.c
+  197  gedit prog2.c
+  198  gedit prog1.c
+  199  gedit prog2.c
+  200  cd b422005
+  201  mkdir lab_03
+  202  gedit prog1
+  203  gedit prog1.c
+  204  gedit prog1
+  205  gedit prog2.c
+  206  gedit lab_03
+  207  cd lab_03
+  208  gedit prog1.c
+  209  gcc prog1.c
+  210  gedit prog1.c
+  211  gcc prog1.c
+  212  gedit prog1.c
+  213  gcc prog1.c
+  214  gedit prog1.c
+  215  gcc prog1.c
+  216  gedit prog1.c
+  217  gcc prog1.c
+  218  gedit prog1.c
+  219  gcc prog1.c
+  220  ./a.out
+  221  gedit prog2.c
+  222  gedit prog3.c
+  223  gcc prog3.c
+  224  ./a.out
+  225  gedit prog1.c
+  226  cd b422005
+  227  mkdir lab_04
+  228  cd lab_04
+  229  gedit prog1.c
+  230  gcc prog1.c
+  231  ./a.out
+  232  gedit prog1.c
+  233  gcc prog1.c
+  234  ./a.out
+  235  gedit prog1.c
+  236  gcc prog1.c
+  237  ./a.out
+  238  gedit prog1.c
+  239  gcc prog1.c
+  240  ./a.out
+  241  gedit prog1.c
+  242  gcc prog1.c
+  243  ./a.out
+  244  gedit prog1.c
+  245  gcc prog1.c
+  246  ./a.out
+  247  gedit prog2.c
+  248  gcc prog2.c
+  249  ./a.out
+  250  gedit prog2.c
+  251  cd b422039
+  252  mkdir lab4
+  253  cd lab4
+  254  gedit prog1.c
+  255  gcc prog1.c
+  256  gedit prog1.c
+  257  gcc prog1.c
+  258  gedit prog1.c
+  259  gcc prog1.c
+  260  gedit prog1.c
+  261  gcc prog1.c
+  262  gedit prog1.c
+  263  gcc prog1.c
+  264  gedit prog1.c
+  265  gcc prog1.c
+  266  gedit prog1.c
+  267  gcc prog1.c
+  268  gedit prog1.c
+  269  gcc prog1.c
+  270  ./a.out
+  271  gedit prog1.c
+  272  gcc prog1.c
+  273  ./a.out
+  274  gedit prog1.c
+  275  gcc prog1.c
+  276  ./a.out
+  277  gedit prog1.c
+  278  gcc prog1.c
+  279  ./a.out
+  280  gedit prog1.c
+  281  gedit prog2.c
+  282  gedit prog1.c
+  283  gedit prog2.c
+  284  cd b422005
+  285  mkdir lab_05
+  286  cd lab_05
+  287  gedit prog1.c
+  288  gcc prog1.c
+  289  gedit prog1.c
+  290  gcc prog1.c
+  291  gedit prog1.c
+  292  gcc prog1.c
+  293  ./a.out
+  294  cd b422005
+  295  mkdir lab_05
+  296  cd lab_05
+  297  gedit prog1.c
+  298  gcc prog1.c
+  299  ./a.out
+  300  gedit prog1.c
+  301  gcc prog1.c
+  302  ./a.out
+  303  gedit prog1.c
+  304  gcc prog1.c
+  305  ./a.out
+  306  gedit prog1.c
+  307  gcc prog1.c
+  308  ./a.out
+  309  gedit prog2.c
+  310  gcc prog2.c
+  311  gedit prog2.c
+  312  gcc prog2.c
+  313  gedit prog2.c
+  314  gcc prog2.c
+  315  ./a.out
+  316  gedit prog2.c
+  317  gcc prog2.c
+  318  ./a.out
+  319  gedit prog2.c
+  320  gcc prog2.c
+  321  ./a.out
+  322  gedit prog2.c
+  323  gedit prog3.c
+  324  gedit prog2.c
+  325  gcc prog3.c
+  326  ./a.out
+  327  cd b422039
+  328  mkdir lab5
+  329  cd lab5
+  330  gedit prog1.c
+  331  cd b422039
+  332  mkdir lab5
+  333  cd lab5
+  334  gedit prog1.c
+  335  gcc prog1.c
+  336  gedit prog1.c
+  337  gcc prog1.c
+  338  gedit prog1.c
+  339  gcc proq1.c
+  340  gcc prog1.c
+  341  gedit prog1.c
+  342  gcc prog1.c
+  343  gedit prog1.c
+  344  gcc prog1.c
+  345  gedit prog1.c
+  346  gcc prog1.c
+  347  gedit prog1.c
+  348  gcc prog1.c
+  349  ./a.out
+  350  gedit prog1.c
+  351  gcc prog1.c
+  352  gedit prog1.c
+  353  gcc prog1.c
+  354  gedit prog1.c
+  355  gcc prog1.c
+  356  gedit prog1.c
+  357  gcc prog1.c
+  358  ./a.out
+  359  gedit prog1.c
+  360  gcc prog1.c
+  361  ./a.out
+  362  gedit prog1.c
+  363  gcc prog1.c
+  364  ./a.out
+  365  gedit prog1.c
+  366  gedit prog2.c
+  367  gedit prog1.c
+  368  gcc prog1.c
+  369  ./a.out
+  370  gedit prog2.c
+  371  cd b422005
+  372  mkdir lab_07
+  373  cd lab_07
+  374  gedit prog1.c
+  375  gcc prog1.c
+  376  gedit prog1.c
+  377  gcc prog1.c
+  378  gedit prog1.c
+  379  gcc prog1.c
+  380  gedit prog1.c
+  381  gcc prog1.c
+  382  .a/.out
+  383  a/.out
+  384  a./.out
+  385  ./a.out
+  386  gedit prog2.c
+  387  gcc prog2.c
+  388  ./a.out
+  389  gcc prog2.c
+  390  ./a.out
+  391  gedit prog2.c
+  392  gcc prog2.c
+  393  ./a.out
+  394  gcc prog2.c
+  395  ./a.out
+  396  gedit prog3.c
+  397  gedit prog2.c
+  398  gedit prog3.c
+  399  gedit prog2.c
+  400  cd b422039
+  401  mkdir lab7
+  402  cd lab7
+  403  gedit prog1.c
+  404  gcc prog1.c
+  405  gedit prog1.c
+  406  gcc prog1.c
+  407  gedit prog1.c
+  408  gcc prog1.c
+  409  gedit prog1.c
+  410  gcc prog1.c
+  411  gedit prog1.c
+  412  gcc prog1.c
+  413  gedit prog1.c
+  414  gcc prog1.c
+  415  ./a.out
+  416  gedit prog1.c
+  417  gcc prog1.c
+  418  gedit prog1.c
+  419  gcc prog1.c
+  420  ./a.out
+  421  gedit prog2.c
+  422  gcc prog1.c
+  423  gedit prog1.c
+  424  gedit prog2.c
+  425  gcc prog2.c
+  426  gedit prog2.c
+  427  gcc prog2.c
+  428  ./a.out
+  429  gedit prog3.c
+  430  gcc prog3.c
+  431  gedit prog3.c
+  432  gcc prog3.c
+  433  gedit prog3.c
+  434  gcc prog3.c
+  435  gedit prog3.c
+  436  gcc prog3.c
+  437  gedit prog3.c
+  438  gcc prog3.c
+  439  gedit prog3.c
+  440  gedit prog1.c
+  441  gcc prog1.c
+  442  ./a.out
+  443  gcc prog2.c
+  444  ./a.out
+  445  cd b422005
+  446  mkdir lab_08
+  447  cd lab_08
+  448  gedit prog1.c
+  449  gcc prog1.c
+  450  gedit prog1.c
+  451  gcc prog1.c
+  452  gedit prog1.c
+  453  gcc prog1.c
+  454  ./a.out
+  455  gedit prog2.c
+  456  gcc prog2.c
+  457  ./a.out
+  458  gedit prog3.c
+  459  gcc prog3.c
+  460  gedit prog3.c
+  461  gcc prog3.c
+  462  ./a.out
+  463  gedit prog1.c
+  464  gcc prog1.c
+  465  ./a.out
+  466  gedit prog1.c
+  467  gedit p1.c
+  468  gcc p1.c
+  469  gedit p1.c
+  470  gcc p1.c
+  471  ./a.out
+  472  cd b422039
+  473  mkdir lab8
+  474  cd lab8
+  475  gedit prog1.c
+  476  gcc prog1.c
+  477  gedit prog1.c
+  478  gcc prog1.c
+  479  ./a.out
+  480  gedit prog1.c
+  481  gcc prog1.c
+  482  ./a.out
+  483  gedit prog1.c
+  484  gcc prog1.c
+  485  ./a.out
+  486  gedit prog1.c
+  487  gcc prog1.c
+  488  ./a.out
+  489  gedit prog1.c
+  490  gcc prog1.c
+  491  ./a.out
+  492  gedit prog1.c
+  493  ./a.out
+  494  gedit prog1.c
+  495  ./a.out
+  496  gedit prog1.c
+  497  cd ..
+  498  cd b422005
+  499  cd lab8
+  500  ls
+  501  cd lab_08
+  502  ls
+  503  gedit prog1.c
+  504  cd ..
+  505  cd b422039
+  506  cd lab8
+  507  gedit prog1.c
+  508  gcc prog1.c
+  509  ./a.out
+  510  gedit prog2.c
+  511  gcc prog2.c
+  512  gedit prog2.c
+  513  gcc prog2.c
+  514  gedit prog2.c
+  515  gcc prog2.c
+  516  gedit prog3.c
+  517  gcc prog3.c
+  518  gedit prog3.c
+  519  gcc prog3.c
+  520  gedit prog3.c
+  521  gcc prog3.c
+  522  gedit prog3.c
+  523  gcc prog3.c
+  524  gedit prog3.c
+  525  gedit prog1.c
+  526  gcc prog1.c
+  527  ./a.out
+  528  gedit prog2.c
+  529  gcc prog2.c
+  530  gedit prog2.c
+  531  gcc prog2.c
+  532  gedit prog2.c
+  533  gcc prog2.c
+  534  gedit prog1.c
+  535  gcc prog1.c
+  536  ./a.out
+  537  gedit prog2.c
+  538  cd b422039
+  539  mkdir lab9
+  540  cd lab9
+  541  gedit prog1.c
+  542  gcc prog1.c
+  543  gedit prog1.c
+  544  gcc prog1.c
+  545  gedit prog1.c
+  546  gcc prog1.c
+  547  ./a.out
+  548  gedit prog2.c
+  549  gedit prog1.c
+  550  gedit prog2.c
+  551  gcc prog2.c
+  552  gedit prog2.c
+  553  gcc prog2.c
+  554  ./a.out
+  555  gedit prog2.c
+  556  gcc prog2.c
+  557  ./a.out
+  558  gedit prog2.c
+  559  cd b422039
+  560  cd lab9
+  561  gedit prog1.c
+  562  gcc prog1.c
+  563  ./a.out
+  564  gedit prog2.c
+  565  gcc prog2.c
+  566  ./a.out
+  567  gedit prog2.c
+  568  gedit prog1.c
+  569  gedit prog2.c
+  570  cd b422005
+  571  mkdir labtest
+  572  gedit prog1.c
+  573  cd b422005
+  574  cd labtest
+  575  mkdir labtest
+  576  gedit prog1.c
+  577  gcc prog1.c
+  578  gedit prog1.c
+  579  gcc prog1.c
+  580  .a/.out
+  581  a./.out
+  582  .a./out
+  583  ./a.out
+  584  gedit prog1.c
+  585  gcc prog1.c
+  586  ./a.out
+  587  gedit prog1.c
+  588  gcc prog1.c
+  589  ./a.out
+  590  gedit prog2.c
+  591  gedit prog1.c
+  592  gedit prog2.c
+  593  gcc prog2.c
+  594  gedit prog2.c
+  595  gcc prog2.c
+  596  gedit prog2.c
+  597  gcc prog2.c
+  598  gedit prog2.c
+  599  gcc prog2.c
+  600  gedit prog2.c
+  601  gcc prog2.c
+  602  gedit prog2.c
+  603  cd b422039
+  604  mkdir labtest1
+  605  cd labtest1
+  606  gedit prog1.c
+  607  gcc prog1.c
+  608  gedit prog1.c
+  609  gcc prog1.c
+  610  gedit prog1.c
+  611  cd labtest1
+  612  mkdir labtest1
+  613  cd labtest1
+  614  gedit prog1.c
+  615  cd labtest1
+  616  gedit prog1.c
+  617  cd b422039
+  618  cd labtest1
+  619  gedit prog1.c
+  620  gcc prog1.c
+  621  gedit prog1.c
+  622  gcc prog1.c
+  623  cd b422039
+  624  cd labtest1
+  625  gcc prog1.c
+  626  gedit prog1.c
+  627  gcc prog1.c
+  628  gedit prog1.c
+  629  gcc prog1.c
+  630  gedit prog1.c
+  631  gcc prog1.c
+  632  gedit prog1.c
+  633  gcc prog1.c
+  634  ./a.out
+  635  gedit prog1.c
+  636  gcc prog1.c
+  637  ./a.out
+  638  gedit prog1.c
+  639  gcc prog1.c
+  640  gedit prog1.c
+  641  gcc prog1.c
+  642  gedit prog1.c
+  643  gcc prog1.c
+  644  gedit prog1.c
+  645  gcc prog1.c
+  646  gedit prog1.c
+  647  gcc prog1.c
+  648  gedit prog1.c
+  649  gcc prog1.c
+  650  gedit prog1.c
+  651  gcc prog1.c
+  652  gedit prog1.c
+  653  gcc prog1.c
+  654  gedit prog2.c
+  655  gcc prog2.c
+  656  gedit prog2.c
+  657  gcc prog2.c
+  658  gedit prog2.c
+  659  gcc prog2.c
+  660  gedit prog2.c
+  661  gcc prog2.c
+  662  gedit prog2.c
+  663  gcc prog2.c
+  664  gedit prog2.c
+  665  gcc prog2.c
+  666  gedit prog2.c
+  667  gcc prog2.c
+  668  ./a.out
+  669  gcc prog2.c
+  670  gedit prog2.c
+  671  gcc prog2.c
+  672  gedit prog2.c
+  673  gcc prog2.c
+  674  ./a.out
+  675  gedit prog2.c
+  676  gcc prog2.c
+  677  gedit prog2.c
+  678  gcc prog2.c
+  679  ./a.out
+  680  gedit prog2.c
+  681  ./a.out
+  682  gedit prog2.c
+  683  ./a.out
+  684  gedit prog2.c
+  685  gedit prog1.c
+  686  gcc prog1.c
+  687  gedit prog2.c
+  688  gcc prog2.c
+  689  cd b422039
+  690  mkdir lab3
+  691  cd lab3
+  692  gedit prog1.c
+  693  gcc prog1.c
+  694  gedit prog1.c
+  695  gcc prog1.c
+  696  gedit prog1.c
+  697  ./a.out
+  698  gedit prog1.c
+  699  ./a.out
+  700  gedit prog1.c
+  701  ./a.out
+  702  gedit prog1.c
+  703  gcc prog1.c
+  704  ./a.out
+  705  cd new
+  706  gcc
+  707  selection.c
+  708  gedit insertion.c
+  709  mkdir new
+  710  cd new
+  711  gedit insertion.c
+  712  gcc insertion.c
+  713  gedit insertion.c
+  714  gcc insertion.c
+  715  gedit insertion.c
+  716  gcc insertion.c
+  717  gedit insertion.c
+  718  gcc insertion.c
+  719  gedit insertion.c
+  720  gcc insertion.c
+  721  gedit insertion.c
+  722  gcc insertion.c
+  723  gedit insertion.c
+  724  gcc insertion.c
+  725  gedit insertion.c
+  726  gcc insertion.c
+  727  gedit insertion.c
+  728  gcc insertion.c
+  729  gedit insertion.c
+  730  gcc insertion.c
+  731  gedit insertion.c
+  732  gcc insertion.c
+  733  ./a.out
+  734  gedit insertion.c
+  735  gcc insertion.c
+  736  gedit insertion.c
+  737  gcc insertion.c
+  738  gedit insertion.c
+  739  gcc insertion.c
+  740  ./a.out
+  741  gedit insertion.c
+  742  gcc insertion.c
+  743  ./a.out
+  744  gedit insertion.c
+  745  gcc insertion.c
+  746  ./a.out
+  747  gedit insertion.c
+  748  gcc insertion.c
+  749  gedit insertion.c
+  750  gcc insertion.c
+  751  gedit insertion.c
+  752  gcc insertion.c
+  753  gedit insertion.c
+  754  gcc insertion.c
+  755  gedit insertion.c
+  756  gcc insertion.c
+  757  gedit insertion.c
+  758  gcc insertion.c\
+  759  gcc insertion.c
+  760  gedit insertion.c
+  761  gcc insertion.c
+  762  ./a.out
+  763  gedit insertion.c
+  764  gedit i.c
+  765  gcc i.c
+  766  ./a.out
+  767  gedit insertion.c
+  768  gcc insertion.c
+  769  ./a.out
+  770  gedit insertion.c
+  771  gcc insertion.c
+  772  ./a.out
+  773  gedit insertion.c
+  774  gcc insertion.c
+  775  ./a.out
+  776  .\a.out
+  777  ./a.out
+  778  gedit insertion.c
+  779  gcc insertion.c
+  780  gedit insertion.c
+  781  gcc insertion.c
+  782  gedit insertion.c
+  783  gcc insertion.c
+  784  ./a.out
+  785  gedit insertion.c
+  786  gcc insertion.c
+  787  ./a.out
+  788  gedit insertion.c
+  789  gedit insertion.c
+  790  gcc insertion.c
+  791  ./a.out
+  792  gedit insertion.c
+  793  gcc insertion.c
+  794  ./a.out
+  795  gedit insertion.c
+  796  gcc insertion.c
+  797  gedit insertion.cgedit insertion.c\
+  798  gcc insertion.c
+  799  gedit insertion.c
+  800  gcc insertion.c
+  801  ./a.out
+  802  gedit insertion.c
+  803  gcc insertion.c
+  804  gedit insertion.c
+  805  gcc insertion.c
+  806  gedit insertion.c
+  807  gcc insertion.c
+  808  ./a.out
+  809  gedit insertion.c
+  810  gcc
+  811  ls
+  812  gedit hello.c
+  813  gcc hello.c
+  814  gedit hello.c
+  815  gcc hello.c
+  816  ./a.out 
+  817  cd Desktop/
+  818  mkdir b122012
+  819  ls
+  820  cd b122012
+  821  ls
+  822  mkdir labtest
+  823  gedit recursivefactorial.c
+  824  gcc recursivefactorial.c 
+  825  ./a.out 
+  826  gedit recursivefactorial.c
+  827  gcc recursivefactorial.c 
+  828  ./a.out 
+  829  gedit recursivefactorial.c
+  830  gcc recursivefactorial.c 
+  831  ./a.out 
+  832  gcc recursivefactorial.c 
+  833  ./a.out 
+  834  gedit recursivefactorial.c
+  835  ./a.out 
+  836  cat>rimi
+  837  cat>rimi40
+  838  cat man
+  839  cat>rimi
+  840  cat rimi
+  841  mkdir rim_40
+  842  cd rim_40
+  843  mkdir -p it/rim_40
+  844  cd ..
+  845  cd
+  846  pwd
+  847  ./
+  848  who
+  849  who -b
+  850  who -u
+  851  who -q
+  852  whoami
+  853  ls
+  854  ls -a
+  855  ls -A
+  856  ls -p
+  857  ls -l
+  858  ls -L
+  859  ls -la
+  860  cd ../home
+  861  touch lesson1.txt
+  862  gedit lesson1.txt
+  863  nano lesson1.txt
+  864  vi lesson1.txt
+  865  cat lesson1.txt
+  866  gedit file1.txt
+  867  cat file1.txt
+  868  mkdir iiitb121057
+  869  cd iiitb121057
+  870  cd ../
+  871  mkdir iiitb121057/kuchbhi
+  872  mkdir iiitb121057/cse
+  873  cd iiitb121057
+  874  cd cse
+  875  gedit file1.txt
+  876  cd ../
+  877  cd cse
+  878  cp file1.txt iiitb121057/kuchbhi
+  879  cp file1.txt kuchbhi
+  880  ls
+  881  cd ../
+  882  ls
+  883  cp file1.txt file2.txt
+  884  cp cse/file1.txt file2.txt
+  885  ls
+  886  mv cse/file1.txt file3.txt
+  887  ls
+  888  nano file3.txt
+  889  mkdir iiit
+  890  cd iiit
+  891  mkdir cse
+  892  mkdir etc
+  893  mkdir it
+  894  mkdir eee
+  895  cd cse
+  896  mkdir g1
+  897  mkdir g2
+  898  cd ../
+  899  cd eee
+  900  mkdir
+  901  mkdir g1
+  902  mkdir g2
+  903  cd g2
+  904  mkdir g3
+  905  mkdir g4
+  906  cd g3
+  907  cd ../../
+  908  cd g2/g3
+  909  cd ../../cse
+  910  cd ../cse
+  911  cd ../../../cse
+  912  cd ../
+  913  rmdir eee
+  914  rmdir etc
+  915  ls
+  916  cd cse
+  917  ls
+  918  cd g1
+  919  nano file1.txt
+  920  cd ../
+  921  cd ../../
+  922  ls
+  923  ls -a
+  924  ls -A
+  925  ls -l////////
+  926  ls -L
+  927  chmod 751 file2.txt
+  928  ls -l
+  929  chmod 531 file3.txt
+  930  ls -l
+  931  who am i
+  932  whoami
+  933  date+%m
+  934  date + %m
+  935  date+% m
+  936  date + % m
+  937  date man
+  938  man date
+  939  date %m
+  940  history > file3.txt
+  941  chmod 777 file3.txt
+  942  ls -l
+  943  history > file3.txt
+  944  cat file3.txt
+  945  date +%m
+  946  ls
+  947  sort -r gfdfdsf
+  948  ls 
+  949  cd iiitb121057
+  950  gedit filesort.txt
+  951  sort filesort.txt
+  952  sort -r filesort.txt
+  953  nano numfile.txt
+  954  sort -n numfile.txt
+  955  find numfile.txt
+  956  ls 
+  957  cd cse
+  958  ls
+  959  cd ../kuchbhi/
+  960  ls
+  961  nano filedumb.txt
+  962  cd ../
+  963  find filedumb.txt
+  964  nano filesort
+  965  nano filesort.txt
+  966  sort -r filesort.txt
+  967  find numfile.txt
+  968  wc -l
+  969  nano testcount.txt
+  970  wc -c testcount.txt
+  971  wc -l testcount.txt
+  972  bc
+  973  nano tf1.txt
+  974  nano tf2.txt
+  975  grep "iiit" *
+  976  awk '{prod $2,$4}' tf1.txt
+  977  awk '{prod $2 $4}' tf1.txt
+  978  awk {print $2,$4} tf1.txt
+  979  awk {print $2 $4} tf1.txt
+  980  awk '{print $2 $4}' tf1.txt
+  981  sed 'p' tf1.txt
+  982  man sed
+  983  cut -d " " -f 1,3 tf1.txt
+  984  nano tf3.txt
+  985  wc -c tf3.txt | cut -d " " -f 1,4 tf3.txt
+  986  wc -c  | cut -d " " -f 1,4 tf3.txt
+  987  history > lab2os.txt

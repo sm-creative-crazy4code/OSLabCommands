@@ -1,0 +1,1 @@
+hi this is a text file with spaces . WE will remove the spaces form it using sed commmand
